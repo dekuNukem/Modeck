@@ -6,7 +6,7 @@ Modeck is a physical control panel for Twitch broadcasters.
 
 - Dedicated controls for sub mode, slow mode, and playing commercials
 - No more interrupting stream to type commands into chat
-- 6 user customizable buttons/switches, can be set to send chat messages or keyboard hot keys
+- 6 user customizable buttons/switches, can be either set to send chat messages or act like keyboard hot keys
 - Cross platform (Windows, OS X, Linux)
 - No driver needed on all platforms
 
