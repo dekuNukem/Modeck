@@ -11,3 +11,6 @@ Modeck is a physical control panel for Twitch broadcasters.
 - Cross platform (Windows, OS X, Linux)
 - No driver needed on all platforms
 
+![modeck](http://i.imgur.com/Tzu8gZu.jpg)
+
+![modeck](http://i.imgur.com/QN7Bh7v.gif)
