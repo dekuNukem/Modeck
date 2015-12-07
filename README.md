@@ -13,10 +13,5 @@ Modeck is a physical control panel for Twitch broadcasters.
 
 ## Video Demonstrations 
 
-
-
-
-[![Alt text](http://imgur.com/a/pS2iP)](http://i.imgur.com/qmH1Fd5.jpg)
-
-
 Please go to [this album](http://imgur.com/a/pS2iP) to see Modeck in action.
+
